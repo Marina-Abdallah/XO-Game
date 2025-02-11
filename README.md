@@ -54,9 +54,6 @@ Final\_XO is a Python-based Tic-Tac-Toe game with an AI opponent implemented usi
 - Improve AI difficulty levels (Easy, Medium, Hard).
 - Add animation effects for smoother gameplay.
 
-## License
-
-This project is open-source and available&#x20;
 
 ## Author
 
